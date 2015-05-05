@@ -1,0 +1,6 @@
+{
+	"WLARegexTypeSignature": "signature=(\\w*\\.\\w*)&",
+	"WLARegexTypeSignatureName": "\\.sig\\|\\|([a-zA-Z0-9$]+)\\(",
+	"WLARegexTypeFormatStreamMap": "\"url_encoded_fmt_stream_map\":\\s*\"([^\"]*)\"",
+	"WLARegexTypePlayerURL": "\"assets\":.+?\"js\":\\s*(\"[^\"]+\")"
+}
